@@ -1,6 +1,6 @@
 ***Description:***
 
-This code is like a digital detective that can tell if a document, like an ID card, has been tampered with or not. Imagine you have an ID card, and you want to know if someone tried to change it in any way. This code helps you find out!
+- This code is like a digital detective that can tell if a document, like an ID card, has been tampered with or not. Imagine you have an ID card, and you want to know if someone tried to change it in any way. This code helps you find out!
 
 ***Technologies :***
 
