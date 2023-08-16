@@ -28,7 +28,7 @@ This code is like a digital detective that can tell if a document, like an ID ca
 
 - Insurance Claims: Insurance companies can employ the app to validate the authenticity of documents submitted as part of insurance claims. This helps prevent false claims based on tampered or fraudulent documents.
 
-Regulatory Compliance: Businesses operating in regulated industries, such as finance and healthcare, can use the app to ensure compliance with identity verification and document authenticity regulations.
+- Regulatory Compliance: Businesses operating in regulated industries, such as finance and healthcare, can use the app to ensure compliance with identity verification and document authenticity regulations.
 
 - E-Commerce and Marketplace Verification: Online marketplaces can use the app to verify the authenticity of documents submitted by sellers, ensuring the accuracy of business credentials and contact information.
 
